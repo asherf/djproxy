@@ -1,7 +1,7 @@
 djproxy
 =======
 
-|Build Status| |Coverage Status| |Latest Version| |PyPI - Python Version| |PyPI - Downloads|
+|Build Status| |Coverage Status| |Latest Version| |PyPI - Python Version| |PyPI - Downloads| |Django Version|
 
 .. |Build Status| image:: https://img.shields.io/travis/thomasw/djproxy.svg
    :target: https://travis-ci.org/thomasw/djproxy
@@ -11,7 +11,7 @@ djproxy
    :target: https://pypi.python.org/pypi/djproxy/
 .. |PyPI - Python Version| image:: https://img.shields.io/pypi/pyversions/djproxy.svg
    :target: https://pypi.python.org/pypi/djproxy/
-.. |PyPI - Downloads| image:: https://img.shields.io/pypi/dm/djproxy.svg
+.. |Django Versions| image:: https://img.shields.io/pypi/djversions/djproxy.svg
    :target: https://pypi.python.org/pypi/djproxy/
 
 Why?
